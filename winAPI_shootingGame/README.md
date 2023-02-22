@@ -1,5 +1,7 @@
 # 2023-02/22 "Windows APIでかんたんなシューティングゲームを作ってください"  
-English(DeepL translate): Make a simple shooting game with Windows API!  
+English(DeepL translate): Make a simple shooting game with Windows API! 
+
+## [生成物はこちら/Result Binary here](https://github.com/yyhome-tromb/ChatGPT_programming_try/releases/tag/winAPI_shootingGame)
 
 ## 日本語：
 初心者向けサイトのように、ChatGPTはコードの骨組みから作りそこに機能を足していったため、実際に出力された順番とは違いますが、私はコードを適切に配置しただけで、コードは何も書いていません。  
